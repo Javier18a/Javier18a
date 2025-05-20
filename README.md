@@ -8,33 +8,37 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src=""
-       alt="snake" /></a>
+  <img  src="https://github.com/user-attachments/assets/7939be3a-c80c-40cf-ad92-9d0b09076a93" alt="nexxo" /></a>
 </div>
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Desarrollador web y software</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+## Sobre mi
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+🎯 Siempre estoy creando algo. Me gusta tomar ideas simples y convertirlas en proyectos reales que funcionen, se vean bien y tengan sentido.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+💭 No creo en quedarme quieto. Cada nuevo proyecto es una oportunidad para mejorar, experimentar y hacer las cosas de forma diferente. Si algo no existe como lo imagino, trato de construirlo.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+⚡ Trabajo con enfoque, pero también con curiosidad. Me gusta entender cómo funciona lo que hago, no solo que funcione. Paso tiempo ajustando los detalles hasta que todo encaje.
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+🏆 He participado en desafíos de innovación. Gané **primer lugar a nivel nacional y latinoamericano** en el *Rally de Innovación*, y llegué a **semifinales en un hackathon**, presentando soluciones con impacto real.
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+📌 Me esfuerzo por mantener mis proyectos organizados, claros y con buena lógica. Me importa tanto lo que se ve como lo que no se ve.
+
+🚀 He desarrollado sistemas desde cero, trabajado en equipo, y también he llevado ideas personales adelante solo por el gusto de construir.
+
+🤝 Si tenés ideas, proyectos o simplemente querés charlar de lo que estás creando, estoy abierto a conectar.
+
+
 <!--Intro end-->
 
 
